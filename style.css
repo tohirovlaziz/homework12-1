@@ -1,0 +1,47 @@
+
+body {
+    background-color: rgb(6, 150, 107);
+    font-family: Arial, sans-serif;
+    margin: 100px 350px;
+    
+}
+
+.todo {
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: aliceblue;
+    padding-bottom: 10px;
+    border-radius: 5px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+input[type="text"] {
+    padding-left: 20px;
+    width: 90%;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 10px; 
+}
+
+input[type="file"] {
+    margin-bottom: 15px;
+}
+ 
+input[type="submit"] {
+    text-align: left;
+    width: 335px;
+    padding: 5px;
+    margin-bottom: 8px;
+}
+
+span {
+    margin-bottom: 15px;
+}
+.you {
+    margin-top: 40px;
+}
+.submit2 {
+   width: 335px;
+   background-color: rgb(102, 62, 105);
+   color: aliceblue;
+}
